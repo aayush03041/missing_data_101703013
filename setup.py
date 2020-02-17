@@ -7,9 +7,9 @@ setup(
   description = 'fill the missing values',   # Give a short description about your library
   author = 'Aayush Singla',                   # Type in your name
   author_email = 'singlaaayush0@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/aayush03041/topsis_101703013', 
-download_url = 'https://github.com/aayush03041/topsis_101703013/archive/v_01.tar.gz',  # Provide either the link to your github or to your website
-  keywords = ['TOPSIS', 'MCDM', 'Statistics'],   # Keywords that define your package best
+  url = 'https://github.com/aayush03041/missing_data_101703013', 
+download_url = 'https://github.com/aayush03041/missing_data_101703013/archive/v_01.tar.gz',  # Provide either the link to your github or to your website
+  keywords = ['missing_data'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
       ],
